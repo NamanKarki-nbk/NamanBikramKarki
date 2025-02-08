@@ -52,7 +52,6 @@ I specialize in building **scalable web solutions** and **exploring deep learnin
 
 ## 📫 **Let's Connect**
 🔗 **Find me on the web**:
-- 🌍 [Portfolio](https://your-portfolio.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/namanbikramkarki/)  
 - 🐦 [Twitter (X)](https://x.com/Naman_kark1)  
 - 📩 **Email**: namankarki.nbk@gmail.com  
