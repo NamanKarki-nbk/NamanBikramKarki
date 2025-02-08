@@ -1,4 +1,6 @@
 # 👋 Hey, I'm Naman Bikram Karki!  
+![Naman Bikram Karki](https://your-image-url.com)
+
 💻 **MERN Stack Developer** | 🤖 **Machine Learning Enthusiast**  
 📍 Kathmandu, Nepal  
 
