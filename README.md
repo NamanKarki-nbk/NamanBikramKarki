@@ -29,7 +29,7 @@ I specialize in building **scalable web solutions** and **exploring deep learnin
 ## 🚀 **Featured Projects**
 🎯 Here are some of my **best projects**:
 - 🔥 **[Travel Booking System](https://github.com/NamanBikramKarki/travel-booking)** – A full-stack **MERN travel booking app** with authentication & payments.
-- 🤖 **[AI Football Tracker](https://github.com/NamanBikramKarki/ai-football-tracker)** – **Computer Vision-based** football analysis system.
+- 🤖 **[AI Football Tracker](https://github.com/NamanKarki-nbk/Game_Plan)** – **Computer Vision-based** football analysis system.
 - 📊 **[Stock Price Predictor](https://github.com/NamanBikramKarki/stock-predictor)** – A **Machine Learning model** for stock market predictions.
 
 📌 _More projects available on my [GitHub Repos](https://github.com/NamanBikramKarki?tab=repositories)!_  
