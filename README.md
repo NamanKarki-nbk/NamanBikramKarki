@@ -15,13 +15,12 @@ I specialize in building **scalable web solutions** and **exploring deep learnin
 - 🚀 Backend → **REST APIs, WebSockets, Authentication (JWT, OAuth)**
 
 ### 🤖 **Machine Learning & AI**
-- 📊 **Deep Learning** → TensorFlow, PyTorch, OpenCV  
+- 📊 **Deep Learning** → TensorFlow, PyTorch, OpenCV, YOLO  
 - 🔍 **Data Science** → Pandas, NumPy, Matplotlib, Scikit-Learn  
 - 🏆 **Computer Vision** → Object Detection, Image Processing  
 
 ### 🛠️ **Tools & Technologies**
-- 🗄️ **Databases** → MongoDB, PostgreSQL, Firebase  
-- 🌐 **Cloud** → AWS, Vercel, Render  
+- 🗄️ **Databases** → MongoDB, MySQL   
 - 🛠 **Version Control** → Git, GitHub  
 
 ---
