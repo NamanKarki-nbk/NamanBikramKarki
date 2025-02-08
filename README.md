@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Naman Bikram Karki!  
-![Naman Bikram Karki](https://your-image-url.com)
+![Naman Bikram Karki](https://avatars.githubusercontent.com/u/198304487?s=400&u=1e6b932dca27baae8e5c4480758c2967015b7ff4&v=4)
 
 💻 **MERN Stack Developer** | 🤖 **Machine Learning Enthusiast**  
 📍 Kathmandu, Nepal  
